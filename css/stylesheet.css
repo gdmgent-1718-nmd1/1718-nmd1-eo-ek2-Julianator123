@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen:400,700');
+
+h1 {
+    font-family: oxygen;
+}
+
+
+
+
+header {
+    width: 100%;
+}
+header p {
+    width:  100%;
+    font-size: 4em;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    padding: 40px 0px;
+    background-color: #8bb6d4;
+    color: white; 
+}
+
+img {
+    max-width: 350px;
+    
+    margin-left: 50px;
+    background-color: white; 
+}
+
+.image img {
+   max-width: 200px;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: white;  
+}
+
+p.title {
+    font-family: 'Oxygen';
+    font-size: 2em;
+    margin-bottom: 20px;
+    margin-top:10px;
+}
+.colorTitle {
+    font-family: 'Oxygen';
+    font-size: 2em;
+    margin-bottom: 20px;
+    padding: 10px
+}
+
+.main {
+    width: 100%;
+}
+
+.links {
+    max-width: 70%;
+    float: left;  
+}
+
+.kleuren li {
+    display: inline-block;
+    max-width: 24%;
+}
+
+.kleuren li div {
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.blue{
+    background-color: #8bb6d4;
+    max-width: 120px
+}
+
+.darkGray {
+    background-color: #434343; 
+    max-width: 120px
+}
+
+.gray {
+    background-color: #d2d2d2; 
+    max-width: 120px
+}
+
+.lightGray {
+    background-color: #f6f6f5; 
+    max-width: 120px
+}
+
+
+.kleurCode {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    font-family: 'Oxygen';
+}
+
+.kleurCode li p {
+    display: block;
+}
+
+.rechts {
+    width: 30%;
+    float: right;
+}
+
+.navUl {
+    background-color: #8bb6d4;
+    width: 120px;
+}
+
+.navUl li {
+    display: inline-block;
+    margin: 0px;
+    font-family: oxygen;
+    color: gray;
+}
+
+.nav p {
+    font-family: 'Oxygen', sans-serif;
+    margin-bottom: 20px;
+}
+.knoppen .nav a {
+    display: inline-block;
+    padding: 5px;
+    background-color: #8bb6d4;
+    color: #d2d2d2;
+    text-decoration: none;
+    margin: 0px;
+}
+
+
+.navUl li a:hover {
+    color: white;
+    transition: 0,3s;
+}
+
+.zoekBtn p {
+    font-family: 'Oxygen', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.zoekBtn a {
+    text-decoration: none;
+    color: white;
+    background-color: #8bb6d4;
+    padding: 8px 40px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.zoekBtn a:hover {
+    text-decoration: none;
+    color: white;
+    background-color: lightsteelblue;
+    padding: 8px 40px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+
+.zoekBtn {
+    margin-bottom: 50px
+}
+
+.font {
+    font-family: oxygen;
+    
+    
+}
+
+.titel {
+    font-weight: bold;
+    font-size: 77px;
+    padding: 5px;
+
+}
+
+.Tussentitel {
+    font-weight: bold;
+    font-size: 60px;
+    padding: 5px
+}
+
+.Tekst {
+    font-size: 18px;
+    padding: 5px;
+}
+
+.navigatieTxt {
+    font-size: 40px
+}
